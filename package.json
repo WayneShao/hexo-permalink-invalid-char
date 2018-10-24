@@ -1,0 +1,23 @@
+{
+  "name": "hexo-permalink-invalid-char",
+  "version": "1.0.0",
+  "description": "A Hexo plugin which convert invalid chars to custom separator.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayneshao/hexo-permalink-invalid-char.git"
+  },
+  "keywords": [
+    "hexo",
+    "permalink"
+  ],
+  "author": "wayneshao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wayneshao/hexo-permalink-invalid-char/issues"
+  },
+  "homepage": "https://github.com/wayneshao/hexo-permalink-invalid-char#readme",
+  "dependencies": {
+  }
+}
